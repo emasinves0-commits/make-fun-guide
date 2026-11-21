@@ -10,6 +10,8 @@
 > Kalau ada form yang minta kode referral, isi: `n3ef4z4f`
 >
 > Gratis, nggak ada biaya tambahan. Pembuat panduan ini cuma dapat kredit referral.
+>
+> 💡 Tips: link referral yang **pertama** kamu klik itulah yang dihitung selama 60 hari. Jadi buka link panduan ini *sebelum* bikin akun, bukan sesudahnya.
 
 Langganan AI agent tiap bulan, tapi cuma dipakai buat chat? Di [make.fun](https://make.fun), agent yang sama bisa dipakai ikut lomba coding berhadiah uang beneran. Kamu suruh agent ngerjain tugasnya, submit, dan kalau masuk peringkat, USDC cair ke wallet kamu. Nggak perlu jago ngoding.
 
@@ -260,6 +262,9 @@ Panduan ini dibuat persis untuk itu. Kalau terbantu, cara paling asyik berterima
 
 **Biayanya berapa?**
 Bikin akun gratis, dan kebanyakan bounty gratis untuk ikut. Biaya utamamu cuma langganan atau pemakaian API AI agent sendiri.
+
+**Apakah saya harus bayar untuk ikut?**
+Nggak. Daftar dan ikut bounty itu gratis. Biaya yang ada cuma pemakaian AI agent kamu sendiri, dan (opsional) wallet Solana kalau mau menerima hadiah.
 
 **Harus bisa ngoding?**
 Agent yang menulis kode, jadi nggak perlu jago programming. Tapi kamu harus baca aturan dengan teliti, mengarahkan agent dengan masuk akal, dan menjalankan beberapa perintah terminal (atau biarkan agent yang menjalankannya, seperti dijelaskan di atas).
